@@ -4,7 +4,7 @@ A Simple News App Made using ReactJS and NewsAPI
 
 At first create an account at https://newsapi.org/ then you will get an api key. 
 
-Now create a .env file in the root folder and save the api key value as 'REACT_APP_NEWS_API'.
+Now create a .env file (like the .env.example file) in the root folder and save the api key value as 'REACT_APP_NEWS_API'.
 
 REACT_APP_NEWS_API= <api_key>
 
