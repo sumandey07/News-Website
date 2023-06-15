@@ -26,11 +26,11 @@ const NewsItem = (props) => {
         <img
           src={
             !imageUrl
-              ? "https://fdn.gsmarena.com/imgroot/news/21/08/xiaomi-smart-home-india-annoucnements/-476x249w4/gsmarena_00.jpg"
+              ? "https://cbl.salfordhomesearch.co.uk/choice/images/shared/noimage.jpg"
               : imageUrl
           }
           className="card-img-top"
-          alt="..."
+          alt="News"
         />
         <div className="card-body">
           <h5 className="card-title ham">{title} </h5>
